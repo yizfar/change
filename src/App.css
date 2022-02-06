@@ -1,0 +1,78 @@
+
+#app1{
+  background-image: url(pexels-burst-545064.jpg);
+  background-attachment: fixed;
+  background-position: center;  background-attachment: fixed;
+  background-color: rgb(236, 243, 243);
+  min-height: 600px;
+  filter: brightness(150%);
+}
+
+.cotainer{
+  min-height: 700px;
+  background-color: rgb(72, 136, 136);
+
+}
+  .row{
+  min-height: 420px;
+}
+  .col-md-5 {
+  min-height: 220px;
+  background-color: rgb(246, 250, 250);
+  -webkit-box-shadow: 0px 0px 22px 13px #4F4C40; 
+  box-shadow: 0px 0px 22px 13px #4F4C40;}
+
+  #signclick{
+
+    background-color: brown;
+    padding: 50px;
+    margin: 50px;
+  }
+  .fa .fa-exchang{
+    font-size: x-large;
+  }
+
+select {
+  background-color: rgb(250, 250, 250);
+  /* color: rgb(253, 253, 253); */
+  margin-bottom: 1em;
+  padding: .25em;
+  border: 0;
+  border-bottom: 2px solid currentcolor; 
+  font-weight: bold;
+  letter-spacing: .15em;
+  border-radius: 0;
+
+  /* &:focus, &:active {
+    outline: 0;
+    border-bottom-color: red;
+  } */
+}
+
+
+
+#signc {
+  color: rgb(207, 22, 22);
+  text-shadow: 2px 2px 2px #133012;
+  font-size: 50px;
+ margin-top: 150px;
+  transform: rotate(360deg);
+
+  transition-duration: 2500ms;
+}
+#input1{
+
+  margin-top: 40px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+  
+}
+
+h1{
+color: rgb(135, 14, 248);
+font-weight:bolder ;
+
+}
