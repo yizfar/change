@@ -1,1 +1,1 @@
-[Link to my VOD site](https://vodyiz.netlify.app/)
+[Link to my EXCHANGE site](https://exchangeyiz.netlify.app/)
